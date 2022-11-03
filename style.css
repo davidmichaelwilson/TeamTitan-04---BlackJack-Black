@@ -1,0 +1,32 @@
+body {
+    font-family: verdana;
+    color: white; 
+    background-image: url("images/felt_table.jpeg");
+    background-size: cover;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+    text-shadow: 5px 5px 10px #222222;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #222222;
+    font-weight: bold; 
+    margin: 20px;
+    padding: 5px 0px; 
+}
+
+
+
+/* #message {
+  color: red; 
+  font-weight: italic;
+} */
